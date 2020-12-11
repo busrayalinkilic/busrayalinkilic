@@ -1,8 +1,10 @@
-#### HI, I'm BÜŞRA 👋
-![for all online orders](https://user-images.githubusercontent.com/72223496/101930072-b7617100-3be8-11eb-8958-ed1603926098.gif)
+####                             HI, I'm BÜŞRA 👋
 ## Find me around the web 🌍
 - ✍🏻 # My blogs on [Medium](https://busrayalinkilic.medium.com/) !
 - ⚡ # Sharing updates on [LinkedIn](https://www.linkedin.com/in/busrayalinkilic/) !
+
+![for all online orders (1)](https://user-images.githubusercontent.com/72223496/101931339-520e7f80-3bea-11eb-91cc-fd4ffd611d51.gif)
+
 
 <!--
 **busrayalinkilic/busrayalinkilic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
