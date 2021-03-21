@@ -1,9 +1,11 @@
 ####                             HI, I'm BÜŞRA 👋
+<img width="600" alt="Adsız tasarım (1)" src="https://user-images.githubusercontent.com/72223496/111898951-45e05c80-8a3a-11eb-9fcf-f7a6ddc8bf19.png">
+
 ## Find me around the web 🌍
 - ✍🏻 # My blogs on [Medium](https://busrayalinkilic.medium.com/) !
 - ⚡ # Sharing updates on [LinkedIn](https://www.linkedin.com/in/busrayalinkilic/) !
 
-![Büşra Yalınkılıç (2)](https://user-images.githubusercontent.com/72223496/111898847-855a7900-8a39-11eb-8a14-69160d6310b3.png)
+
 
 
 
