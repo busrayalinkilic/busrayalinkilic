@@ -12,13 +12,11 @@ I am studying computer engineering at Erciyes University. I am trying to experie
 <a href="https://linkedin.com/in/busrayalinkilic/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 <br />
-<br />
 
 ## Languages and tools
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" />
 <img src= "https://user-images.githubusercontent.com/72223496/117279747-af8dbc00-ae6a-11eb-9f21-ccfee00bbebd.png" width="40" height="40"/> <img src= "https://user-images.githubusercontent.com/72223496/117280211-0a271800-ae6b-11eb-8be2-98a6b30d56e6.png" width="40" height="40"/>  <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
 
-<br />
 <br />
 
 [![GitHub followers](https://img.shields.io/github/followers/busrayalinkilic?style=social)](https://github.com/busrayalinkilic?tab=followers)
