@@ -1,4 +1,4 @@
-####                             HI, I'm BÜŞRA 👋
+####             <center><p>     HI, I'm BÜŞRA 👋 </p></center>
 <img width="1000" alt="Adsız tasarım (1)" src="https://user-images.githubusercontent.com/72223496/111898951-45e05c80-8a3a-11eb-9fcf-f7a6ddc8bf19.png">
 
 ## Find me around the web 🌍
