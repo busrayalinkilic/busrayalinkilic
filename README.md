@@ -14,6 +14,8 @@
 
 ## Languages and tools
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" />
+<img src= "https://user-images.githubusercontent.com/72223496/117279747-af8dbc00-ae6a-11eb-9f21-ccfee00bbebd.png" width="40" height="40"/>
+
 
 
 <!--
