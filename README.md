@@ -5,8 +5,8 @@
 # Hi! I'm Büşra. 
 🌱 I’m currently learning python and kotlin.
 ## Find me around the web 🌍
-- ✍🏻 # My blogs on [Medium](https://busrayalinkilic.medium.com/) !
-- ⚡ # Sharing updates on [LinkedIn](https://www.linkedin.com/in/busrayalinkilic/) !
+- ✍🏻 My blogs on [Medium](https://busrayalinkilic.medium.com/) !
+- ⚡ Sharing updates on [LinkedIn](https://www.linkedin.com/in/busrayalinkilic/) !
 - 📫 How to reach me: busrayalinkilic27@gmail.com
 
 
