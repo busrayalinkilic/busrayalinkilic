@@ -25,7 +25,7 @@ I am studying computer engineering at Erciyes University. I am trying to experie
 
 
 <details close>
-<summary>😇 <b>My Github Stats</b></summary>
+<summary>🌱 <b>My Github Stats</b></summary>
   <br />
   <p align="center">
     <img height="140"
