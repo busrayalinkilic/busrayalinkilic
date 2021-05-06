@@ -25,8 +25,19 @@ I am studying computer engineering at Erciyes University. I am trying to experie
 ![GitHub stars](https://img.shields.io/github/stars/busrayalinkilic?style=social)
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fbusrayalinkilic.busrayalinkilic%2Freadme)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=busrayalinkilic&show_icons=true&locale=en&layout=compact" alt="busrayalinkilic" /></p>
 
+<details close>
+<summary>😇 <b>My Github Stats</b></summary>
+  <br />
+  <p align="center">
+    <img height="140"
+      src="https://github-readme-stats.vercel.app/api?username=busrayalinkilic&show_icons=true&theme=dracula&bg_color=21262D&hide=prs,issues,contribs&hide_border=true"
+    />
+    <img height="140"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=busrayalinkilic&layout=compact&theme=dracula&bg_color=21262D&hide_border=true"
+    />
+  </p>
+</details>
 <!--
 **busrayalinkilic/busrayalinkilic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
