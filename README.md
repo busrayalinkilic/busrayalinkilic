@@ -5,11 +5,15 @@
 # Hi! I'm Büşra. 
 🌱 I’m currently learning python and kotlin.
 ## Find me around the web 🌍
-- ✍🏻 My blogs on [Medium](https://busrayalinkilic.medium.com/) !
-- ⚡ Sharing updates on [LinkedIn](https://www.linkedin.com/in/busrayalinkilic/) !
-- 📫 How to reach me: busrayalinkilic27@gmail.com
+<a href="mailto:busrayalinkilic27@gmail.com"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+<a href="https://medium.com/@busrayalinkilic"><img width="30px" align="left" src="https://user-images.githubusercontent.com/72223496/117278656-a05a3e80-ae69-11eb-840e-ace9956bff04.png" /></a>
+<a href="https://linkedin.com/in/busrayalinkilic/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
+<br />
+<br />
 
+## Languages and tools
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" />
 
 
 <!--
