@@ -1,5 +1,4 @@
  
-<img width="1000" height="250" alt="Adsız tasarım (1)" src="https://user-images.githubusercontent.com/72223496/111898951-45e05c80-8a3a-11eb-9fcf-f7a6ddc8bf19.png">
 
 
 # 
@@ -22,6 +21,7 @@ I am studying computer engineering at Erciyes University. I am trying to experie
 [![GitHub followers](https://img.shields.io/github/followers/busrayalinkilic?style=social)](https://github.com/busrayalinkilic?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/busrayalinkilic?style=social)
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fbusrayalinkilic.busrayalinkilic%2Freadme)
+
 
 
  
