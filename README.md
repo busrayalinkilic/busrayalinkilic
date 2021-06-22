@@ -1,9 +1,9 @@
  
-<img width="1000" alt="Adsız tasarım (1)" src="https://user-images.githubusercontent.com/72223496/111898951-45e05c80-8a3a-11eb-9fcf-f7a6ddc8bf19.png">
+<img width="1000" height="250" alt="Adsız tasarım (1)" src="https://user-images.githubusercontent.com/72223496/111898951-45e05c80-8a3a-11eb-9fcf-f7a6ddc8bf19.png">
 
 
 # 
-<h1 align="center">Hi 👋, I'm Büşra</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Büşra</h1>
 I am studying computer engineering at Erciyes University. I am trying to experience and learn many fields. I’m currently learning python and kotlin.
 
 ### Find me around the web 🌍
@@ -24,18 +24,17 @@ I am studying computer engineering at Erciyes University. I am trying to experie
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fbusrayalinkilic.busrayalinkilic%2Freadme)
 
 
-<details close>
+ 
 <summary>🌱 <b>My Github Stats</b></summary>
   <br />
   <p align="center">
     <img height="140"
-      src="https://github-readme-stats.vercel.app/api?username=busrayalinkilic&show_icons=true&theme=dracula&bg_color=21262D&hide=prs,issues,contribs&hide_border=true"
-    />
+      <a href="https://github.com/busrayalinkilic"><img src="https://github-readme-stats.vercel.app/api?username=busrayalinkilic&count_private=true" height="165" /></a>
     <img height="140"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=busrayalinkilic&layout=compact&theme=dracula&bg_color=21262D&hide_border=true"
-    />
+<p>  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=busrayalinkilic&show_icons=true&locale=en&layout=compact" alt="busrayalinkilic" />
+</p>
+</p>
   </p>
-</details>
 <!--
 **busrayalinkilic/busrayalinkilic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
