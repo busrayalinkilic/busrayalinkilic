@@ -26,12 +26,12 @@ I am studying computer engineering at Erciyes University. I am trying to experie
  
 <summary>🌱 <b>My Github Stats</b></summary>
   <br />
-  <p align="center">
+  <p align="left">
     <img height="140"
-      <a href="https://github.com/busrayalinkilic"><img src="https://github-readme-stats.vercel.app/api?username=busrayalinkilic&count_private=true" height="165" /></a>
-    <img height="140"
-<p>  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=busrayalinkilic&show_icons=true&locale=en&layout=compact" alt="busrayalinkilic" />
-</p>
+      <a href="https://github.com/busrayalinkilic"><img src="https://github-readme-stats.vercel.app/api?username=busrayalinkilic&count_private=true" height="165" /></a> <p> 
+ 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=busrayalinkilic)
+
 </p>
   </p>
 <!--
