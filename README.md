@@ -17,8 +17,6 @@ I am studying computer engineering at Erciyes University. I am trying to experie
 
 <br />
 
-[![GitHub followers](https://img.shields.io/github/followers/busrayalinkilic?style=social)](https://github.com/busrayalinkilic?tab=followers)
-
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fbusrayalinkilic.busrayalinkilic%2Freadme)
 
 
