@@ -2,7 +2,7 @@
 
 # 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Büşra</h1>
-I am studying computer engineering at Erciyes University. I am trying to experience and learn many fields. I’m currently learning python and kotlin.
+I am studying computer engineering at Erciyes University. I am trying to experience and learn many fields. I’m currently learning javascript and react.
 
 ### Find me around the web 🌍
 <a href="mailto:busrayalinkilic27@gmail.com"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
