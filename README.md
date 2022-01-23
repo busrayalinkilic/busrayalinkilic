@@ -1,36 +1,33 @@
  
 
 # 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Büşra</h1>
+<h1 align="center">Hi <img src="https://img.icons8.com/nolan/64/hand.png" width="30px"/> I'm Büşra</h1>
 I am studying computer engineering at Erciyes University. I am trying to experience and learn many fields. I’m currently learning javascript and react.
 
 ### Find me around the web 🌍
-<a href="mailto:busrayalinkilic27@gmail.com"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
-<a href="https://medium.com/@busrayalinkilic"><img width="30px" align="left" src="https://user-images.githubusercontent.com/72223496/117278656-a05a3e80-ae69-11eb-840e-ace9956bff04.png" /></a>
-<a href="https://linkedin.com/in/busrayalinkilic/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="mailto:busrayalinkilic27@gmail.com"><img width="30px" align="left" src="https://img.icons8.com/color/48/000000/new-post.png" /></a>
+<a href="https://medium.com/@busrayalinkilic"><img width="30px" align="left" src="https://img.icons8.com/color-glass/48/000000/medium-monogram.png"/></a>
+<a href="https://linkedin.com/in/busrayalinkilic/"><img width="30px" src="https://img.icons8.com/nolan/64/linkedin.png" /></a>
 
-<br />
+
 
 ## Languages and tools
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" />
-<img src= "https://user-images.githubusercontent.com/72223496/117279747-af8dbc00-ae6a-11eb-9f21-ccfee00bbebd.png" width="40" height="40"/> <img src= "https://user-images.githubusercontent.com/72223496/117280211-0a271800-ae6b-11eb-8be2-98a6b30d56e6.png" width="40" height="40"/>  <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
-<img src="https://user-images.githubusercontent.com/72223496/142397435-f57a3adc-5fa7-4d36-bec1-bf6da32831bc.png" width="40" height="40" /> 
-<img src="https://user-images.githubusercontent.com/72223496/142397851-8d7993c8-35f6-410b-8ac9-384eb3046693.png" width="40" height="40" /> 
+<img src="https://img.icons8.com/nolan/64/git.png"/><img src="https://img.icons8.com/nolan/64/github.png"/>
+<img src="https://img.icons8.com/dusk/64/000000/react.png"/>
+<img src="https://img.icons8.com/nolan/64/javascript.png"/> <img src="https://img.icons8.com/nolan/64/visual-studio-code-2019.png"/>
 
+
+<a href="https://github.com/busrayalinkilic/busrayalinkilic">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=busrayalinkilic&show_icons=true&line_height=27&count_private=true&title_color=5a54ab&text_color=f609a1&icon_color=eadb15&bg_color=fff" alt="Büşra's GitHub Stats" />
+</a>
 <br />
 
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fbusrayalinkilic.busrayalinkilic%2Freadme)
-
-
+![visitors](https://img.shields.io/badge/dynamic/json?color=purple&label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fbusrayalinkilic.busrayalinkilic%2Freadme)
 
  
-<summary>🌱 <b>My Github Stats</b></summary>
-  <br />
-  <p align="left">
-    <img height="140"
-      <a href="https://github.com/busrayalinkilic"><img src="https://github-readme-stats.vercel.app/api?username=busrayalinkilic&count_private=true" height="165" /></a> <p> 
+
  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=busrayalinkilic)
+ 
 
 </p>
   </p>
