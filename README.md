@@ -2,7 +2,7 @@
 
 # 
 <h1 align="center">Hi <img src="https://img.icons8.com/nolan/64/hand.png" width="30px"/> I'm Büşra</h1>
-I am studying computer engineering at Erciyes University. I am trying to experience and learn many fields. I’m currently learning javascript and react.
+I am studying computer engineering at Erciyes University. I am trying to experience and learn many fields. I’m currently learning java and javascript.
 
 ### Find me around the web 🌍
 <a href="mailto:busrayalinkilic27@gmail.com"><img width="30px" align="left" src="https://img.icons8.com/color/48/000000/new-post.png" /></a>
